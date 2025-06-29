@@ -47,24 +47,37 @@ streamlit run health_agent.py
 
 ## 🔑 Setting Up Gemini API Key
 Go to Google AI Studio
+
 Sign in with your Google account
+
 Click on Create API Key
+
 Paste the key into the input box on the sidebar of the SWASTH app
+
 
 ## 🧪 Example Use Cases
 Goal	Output Examples
+
 Lose Weight	Calorie-controlled meals, light cardio plan
+
 Gain Muscle	High-protein diet, strength routine
+
 Stay Fit	Balanced diet + mix of cardio + flexibility
+
 
 ## 🧰 Tech Stack
 🧠 Google Gemini — AI model
+
 📊 Streamlit — Frontend UI
+
 🐍 Python 3.9+
+
 🧾 Markdown & HTML — for styling
+
 
 ## 👨‍🎓 Author
 Devansh Sengar
+
 🔗 GitHub: @devanshsengar04
 
 
