@@ -9,6 +9,12 @@
 
 ---
 
+## 🌐 Live Deployment 
+
+https://swasth-devanshsengar.streamlit.app/
+
+---
+
 ## 🚀 Features
 
 - 🥗 Personalized **dietary plan** generation
